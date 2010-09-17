@@ -8,5 +8,5 @@ typedef struct _produto produto;
 
 void reserva_produto (produto *p)
 {
-    printf("reservando produto");
+    printf("reservando produto.");
 }
