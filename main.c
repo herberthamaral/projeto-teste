@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "reserva.c"
 
 void minha_funcao ()
 {
